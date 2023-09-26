@@ -1,0 +1,19 @@
+// Autor:  salvador isaac reyes varela  372917
+// 2023/10/09
+// menú para realizar conversiones de unidades de medida
+// RVS_ACT5_1_932
+
+#include <stdio.h>
+
+int main()
+{
+  int n, i;
+  printf("Ingrese un numero:\n");
+  scanf("%d", &n);
+
+  for ( i = n; i >= 1; i--)
+  {
+    printf("%d ", i);
+  }
+
+}
