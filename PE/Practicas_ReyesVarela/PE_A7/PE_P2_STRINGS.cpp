@@ -51,7 +51,7 @@ void menu()
 {
 
   char data[30];
-  int opc, i;
+  int opc;
   opc = msg();
   switch (opc)
   {
@@ -330,7 +330,6 @@ void capital(char data[])
 
 void all_strings(char data[])
 {
-  int i = length(data);
 
   upper(data);
   lower(data);
