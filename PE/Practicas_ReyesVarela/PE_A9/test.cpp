@@ -1,3 +1,8 @@
+// Autor:  salvador isaac reyes varela  372917
+// 2023/08/10
+// FUNCIONES y METODOS DE ORDENACION Y BUSQUEDA
+// RVS_ACT9_test_932
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "houseSpecial.h"
