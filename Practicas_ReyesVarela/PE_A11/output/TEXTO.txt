@@ -1,0 +1,107 @@
+MATRICULA   NOMBRE                           APPAT                            APMAT                            FECHA NAC    EDAD   SEXO      LUGAR NAC              CURP
+
+348296      Lucia                                                             Cordero                          10-03-1993   30     MUJER     EXTRANJERO             X                 
+336046      o                                                                                                 20-11-1990   32     MUJER     COLIMA                 X                 
+356634                                                                        Castillo                         07-12-1992   30     MUJER     YUCATAN                X                 
+377345      Lucia                            illo                             Garcia                           05-05-2000   23     MUJER     GUERRERO               i                 
+329310      JER                                                               Paredes                          25-08-1995   28     MUJER     BAJA CALIFORNIA SUR    X                 
+370767      Juan                                                            Pantoja                          19-04-2003   20     HOMBRE    JALISCO                                 
+376778      Alicia                           ALISCO                           IA SUR                           16-05-1996   27     MUJER     YUCATAN                A                 
+339504                                                                     Rojas                            25-02-1997   26     HOMBRE    HIDALGO                                 
+304839      Jose                             Reyes                                                            01-09-1992   31     HOMBRE    EXTRANJERO             R                 
+352511      E                                Ú×:                                                               25-01-1995   28     HOMBRE    YUCATAN                Ú                 
+300060                                                                        Rosario                          31-05-1990   33     HOMBRE    MICHOACAN              X                 
+346058      Ú                                Sanchez                          Reyes                            24-05-1996   27     HOMBRE    CHIHUAHUA              S                 
+341740                                       Pantoja                          Martinez                         23-06-1997   26     MUJER     PUEBLA                 P                 
+358803                                       Ramirez                          Soto                             28-01-1990   33     HOMBRE    YUCATAN                R                 
+398162                                                                        Lopez                            03-12-1998   24     MUJER     GUANAJUATO             X                 
+399485                                                                        Garcia                           08-10-1993   30     MUJER     MORELOS                X                 
+396470      ©`÷                                                              Medina                           02-05-1994   29     MUJER     BAJA CALIFORNIA SUR    X                 
+391178                                                                        FORNIA SUR                       01-01-2003   20     HOMBRE    COAHUILA               X                 
+327561                                                                        Ramirez                          27-12-1992   30     MUJER     QUINTANA ROO           X                 
+315031                                       Jimenez                          Gonzalez                         26-12-1993   29     HOMBRE    GUERRERO               J                 
+365129      R                                                                                                  28-12-1997   25     MUJER     ZACATECAS              X                 
+306190                                       Garcia                           Rojas                            06-01-1993   30     MUJER     JALISCO                G                 
+377915                                                                        Flores                           02-02-1991   32     MUJER     COAHUILA               X                 
+325354                                       Tavares                          Soto                             30-08-1993   30     HOMBRE    GUANAJUATO             T                 
+311602      s                                Perez                                                             28-06-1998   25     HOMBRE    YUCATAN                P                 
+382668      :                                                                 Diaz                             28-02-1996   27     HOMBRE    NAYARIT                X                 
+338470      0228Ø:                          Espinosa                         f                                15-11-1997   25     MUJER     VERACRUZ               E                 
+373097      Mario                            Rosario                          Flores                           03-11-1990   32     HOMBRE    PUEBLA                 R                 
+314073      ©`÷                             Martinez                         Ramirez                          08-11-1999   23     HOMBRE    SAN LUIS POTOSI        M                 
+343071                                                                                                        08-07-1991   32     HOMBRE    TLAXCALA                                
+357747                                       Martinez                                                          16-06-1990   33     HOMBRE    MORELOS                M                 
+375464      ELOS                             0                                rez                              19-02-2003   20     HOMBRE    CHIAPAS                0                 
+344991                                       Pantoja                          Castro                           26-02-1997   26     HOMBRE    HIDALGO                P                 
+333872      Monica                           Paredes                                                           28-03-2001   22     MUJER     TLAXCALA               P                 
+337610                                       Cruz                             0                              16-04-1990   33     HOMBRE    CHIAPAS                C                 
+322627                                       Jimenez                          Alvarez                          16-02-2001   22     MUJER     NUEVO LEON             J                 
+357016                                      MNLilXA5                         Rodriguez                        31-07-1998   25     HOMBRE    YUCATAN                M                 
+345553      0731Ø:                          Herrera                                                           07-11-1994   28     HOMBRE    DISTRITO FEDERAL       H                 
+393707                                       Ortega                                                           15-08-1993   30     MUJER     GUANAJUATO             O                 
+395658      Isabel                                                            Cordero                          17-09-2000   23     MUJER     GUERRERO               X                 
+327890      Fernando                         Castro                           Lopez                            08-04-1998   25     HOMBRE    QUERETARO              C                 
+327162      Cecilia                                                           Jimenez                          09-10-1993   30     MUJER     GUERRERO               X                 
+318870      Cecilia                          ou03                            Ortega                           03-03-2001   22     MUJER     SONORA                 o                 
+323339                                       
+                                Alvarez                          15-12-1992   30     MUJER     GUANAJUATO             
+                 
+375094      ©`÷                             Fernandez                        Cordero                          31-08-1992   31     HOMBRE    GUANAJUATO             F                 
+331476                                       Guzman                           Rodriguez                        05-08-2003   20     MUJER     PUEBLA                 G                 
+356150      Lorena                                                                                             15-03-1991   32     MUJER     TLAXCALA               X                 
+357520                                       Alvarez                          f                                18-01-2003   20     HOMBRE    JALISCO                A                 
+388381                                       a                                0118HJCl                         03-06-1994   29     MUJER     VERACRUZ               a                 
+359629      0603Ø:                                                         Herrera                          10-07-2002   21     HOMBRE    QUINTANA ROO                            
+392603                                                                                                        03-07-1992   31     HOMBRE    QUERETARO                               
+343323      TARO                             Pantoja                          Tavares                          16-11-1992   30     HOMBRE    NAYARIT                P                 
+365662                                       Arias                            f                                24-11-1999   23     MUJER     MEXICO                 A                 
+356963                                       ero                              Torres                           25-04-1997   26     HOMBRE    TLAXCALA               e                 
+384431      Margarita                        Paredes                          Jimenez                          02-07-1993   30     MUJER     DURANGO                P                 
+375728      Margarita                                                       ou03                            30-07-1997   26     MUJER     NUEVO LEON                              
+350334      Olga                             0730MNLua05                     Diaz                             02-11-1991   31     MUJER     CHIAPAS                0                 
+347253      HIAPAS                                                                                            02-10-2003   20     HOMBRE    MICHOACAN              X                 
+335210      0                                ‡@©`÷                           ou03                            14-08-2003   20     MUJER     DISTRITO FEDERAL       ‡                 
+307938      ¼R©`÷                           Ú×:                                                               23-10-2000   23     MUJER     CAMPECHE               Ú                 
+338224                                       
+                                1023MCC×XRA6                     16-04-1991   32     MUJER     CAMPECHE               
+                 
+338222      ¼R©`÷                           <                                Cordero                          15-04-2000   23     MUJER     COAHUILA               <                 
+319289                                       Rodriguez                                                         02-06-1990   33     HOMBRE    PUEBLA                 R                 
+353793                                       Castro                                                            01-01-1999   24     MUJER     QUINTANA ROO           C                 
+379999      UINTANA ROO                      Santana                          Gomez                            07-03-1991   32     MUJER     BAJA CALIFORNIA SUR    S                 
+375955      Roberto                          @                                Pantoja                          31-08-1994   29     HOMBRE    GUANAJUATO             @                 
+341660      Gustavo                          IA SUR                           ø×:                              09-01-1991   32     HOMBRE    GUANAJUATO             I                 
+398955      Cecilia                                                           De la Cruz                       24-04-2000   23     MUJER     CHIAPAS                X                 
+313457      Luis                                                                                              24-04-1990   33     HOMBRE    SONORA                                  
+336216      a                                ‡@©`÷                           ø×:                              09-11-1995   27     MUJER     SINALOA                ‡                 
+377198      Maria                            O                                Guzman                           30-09-2002   21     MUJER     MORELOS                O                 
+357216                                       Medina                           Soto                             15-10-1996   27     HOMBRE    OAXACA                 M                 
+316693      Lorena                           Alvarez                          ˆP                              17-12-2003   19     MUJER     COLIMA                 A                 
+384806                                       Gonzalez                         Ortega                           28-03-1994   29     HOMBRE    ZACATECAS              G                 
+385410      Raquel                           ou03                            I                                22-10-2002   21     MUJER     BAJA CALIFORNIA        o                 
+396643      ROO                              IA                               ‚á                              18-12-1999   23     MUJER     CHIAPAS                I                 
+314255      a                                ou03                            uz                               05-05-1999   24     MUJER     MICHOACAN              o                 
+310656                                       Torres                           Moreno                           01-10-2000   23     MUJER     SONORA                 T                 
+314715                                       a                                                                 21-10-2003   20     HOMBRE    CHIAPAS                a                 
+341974                                       HOMBRE                           Flores                           14-09-1993   30     MUJER     GUERRERO               H                 
+308819                                                                        Fernandez                        21-02-1995   28     MUJER     TAMAULIPAS             X                 
+312727                                                                        Garcia                           23-08-2001   22     MUJER     CHIHUAHUA              X                 
+344972      G                                Reyes                            ˆP                              11-04-2000   23     MUJER     SAN LUIS POTOSI        R                 
+317717      Sergio                                                            a                                15-09-1993   30     HOMBRE    BAJA CALIFORNIA SUR    X                 
+352952                                       ou03                            Ortega                           07-12-1995   27     HOMBRE    CAMPECHE               o                 
+350706                                                                                                       27-03-1990   33     MUJER     DURANGO                                 
+385016      JER                              Gonzalez                         Jimenez                          03-05-1991   32     HOMBRE    YUCATAN                G                 
+386470      Pedro                            ez                               Leon                             02-05-1991   32     HOMBRE    ZACATECAS              e                 
+398438      a                                                                                                  25-04-1996   27     HOMBRE    TAMAULIPAS             X                 
+374354                                                                        Garcia                           04-10-1991   32     HOMBRE    MICHOACAN              X                 
+382100      X                                Jimenez                          Y                                06-06-1990   33     HOMBRE    MICHOACAN              J                 
+361239                                                                        
+                                06-02-1994   29     MUJER     MICHOACAN              X                 
+338786                                       ICHOACAN                         IA SUR                           04-04-1999   24     MUJER     SAN LUIS POTOSI        I                 
+326325      Mario                                                                                            07-01-2002   21     HOMBRE    GUANAJUATO             X                 
+374211                                       Varela                           Vega                             02-10-1995   28     HOMBRE    EXTRANJERO             V                 
+323753                                       Cordero                          Ramirez                          18-08-1996   27     MUJER     SINALOA                C                 
+322945                                                                                                         22-12-1998   24     HOMBRE    MICHOACAN              X                 
+329241                                      Guzman                           Varela                           01-11-1997   25     HOMBRE    BAJA CALIFORNIA SUR    G                 
+392241                                       Morales                          Varela                           13-12-2001   21     MUJER     CHIAPAS                M                 
+316292      O                                s                                                                 08-01-1995   28     HOMBRE    NUEVO LEON             s                 

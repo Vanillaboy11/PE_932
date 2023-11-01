@@ -1,7 +1,7 @@
 // Autor:  salvador isaac reyes varela  372917
 // 2023/15/10
 // strucs para datos de alumnos
-// RVS_ACT7_P2_932
+// RVS_ACT10_P2_932
 
 #include "houseSpecial.h"
 
